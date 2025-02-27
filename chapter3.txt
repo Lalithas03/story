@@ -1,0 +1,1 @@
+operator overloading refers to giving the normal cpp operators, such as to user defined data tpes simply defined as to create new definition for operators data type conversions is closely connected.

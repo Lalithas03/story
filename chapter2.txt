@@ -1,0 +1,1 @@
+To add to staging are git add chapter txt to commit to keep track what changes you made between last save point to the current save points git commit complete chapter`

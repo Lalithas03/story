@@ -1,0 +1,6 @@
+Function overloading is a feature of object oriented programming were two or more functionn can have the same name but different parameters.
+Overloading with different tpes of arguments overloading with different number of arguments overloading with different sequence of arguments 
+overloading allows operation with the same name but different semantics and different ways of implementation to be invoked for the object of different types function overloading operator overloading.
+functionn overloading is a feature of object function can have the same name but different parameters.
+operatoroverloading refers to givig the normal c++ operators, such as additional meanings when they are applied to user defined data types simply defined as to create new defoomotopm for operators
+Inline function are used to copy the code at the place of the function call itself during the compile time. One of the objective using the function in a program is to save some  memory space
